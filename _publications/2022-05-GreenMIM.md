@@ -3,7 +3,7 @@ title: "Green Hierarchical Vision Transformer for Masked Image Modeling"
 collection: publications
 permalink: /publication/2022-05-GreenMIM.md
 excerpt: 'Efficient masked image modeling with hierarchical vision transformers.'
-date: 2022-05
+date: 2022-05-01
 venue: 'NeurIPS'2022'
 paperurl: 'https://arxiv.org/abs/2205.13515'
 citation: 'Lang Huang, Shan You, Mingkai Zheng, Fei Wang, Chen Qian, Toshihiko Yamasaki (2022). &quot;Green Hierarchical Vision Transformer for Masked Image Modeling; <i>NeurIPS'2022</i>.'
