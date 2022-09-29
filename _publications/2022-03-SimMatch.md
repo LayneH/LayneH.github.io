@@ -9,4 +9,6 @@ paperurl: 'https://arxiv.org/pdf/2002.10319'
 citation: 'Mingkai Zheng, Shan You, Lang Huang, Fei Wang, Chen Qian, Chang Xu (2022). &quot;SimMatch: Semi-supervised Learning with Similarity Matching; <i>CVPR'2022</i>.'
 ---
 
-[Paper](https://arxiv.org/pdf/2002.10319)|[Code](https://github.com/LayneH/self-adaptive-training)
+*Abstract*:
+
+[\[Paper\]](https://arxiv.org/pdf/2002.10319) | [\[Code\]](https://github.com/LayneH/self-adaptive-training)
