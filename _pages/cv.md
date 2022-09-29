@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Beijing University of Posts and Telecommunications, 2018
 * M.S. in Intelligence Science, Peking University, 2021
-* Ph.D in Information and Communication Engineering, The University of Tokyo, 2014 (expected)
+* Ph.D in Information and Communication Engineering, The University of Tokyo, 2024 (expected)
 
 Industry experience
 ======
