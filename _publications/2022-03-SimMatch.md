@@ -1,7 +1,7 @@
 ---
 title: "SimMatch: Semi-supervised Learning with Similarity Matching"
 collection: publications
-permalink: /publication/2022-03-SimMatch.md
+permalink: /publication/2022-03-SimMatch
 excerpt: 'New algorithm for semi-supervised learning.'
 date: 2022-03-01
 venue: 'CVPR'2022'

@@ -1,7 +1,7 @@
 ---
 title: "LightViT: Towards Light-Weight Convolution-Free Vision Transformers"
 collection: publications
-permalink: /publication/2022-07-LightViT.md
+permalink: /publication/2022-07-LightViT
 excerpt: 'A Light-Weight Convolution-Free Vision Transformers.'
 date: 2022-07-01
 venue: arXiv'

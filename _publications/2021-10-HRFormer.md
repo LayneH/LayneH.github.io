@@ -1,7 +1,7 @@
 ---
 title: "HRFormer: High-Resolution Vision Transformer for Dense Prediction"
 collection: publications
-permalink: /publication/2021-10-HRFormer.md
+permalink: /publication/2021-10-HRFormer
 excerpt: 'New algorithm for learning from corruted data.'
 date: 2021-10-01
 venue: 'NeurIPS'2021'
