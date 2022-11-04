@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Beijing University of Posts and Telecommunications, 2018
-* M.S. in Intelligence Science, Peking University, 2021
 * Ph.D in Information and Communication Engineering, The University of Tokyo, 2024 (expected)
+* M.S. in Intelligence Science, Peking University, 2021
+* B.S. in Computer Science, Beijing University of Posts and Telecommunications, 2018
 
 Industry experience
 ======
-* Summer 2021 - Now: Research Intern
+* Auguest 2021 - October 2022: Research Intern
   * SenseTime Research
   * Research topic: Self-supervised representation learning
 
@@ -29,4 +29,4 @@ Publications
   
 Service
 ======
-* Reviewer for AAAI2022-2023, CVPR2022, ECCV2022.
+* Reviewer for AAAI2022-2023, CVPR2022-2023, ECCV2022.
