@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**You can find my CV [here](https://drive.google.com/file/d/143ScEtccaxzCh3MWnpkkmQxBdphqa7ty/view?usp=share_link).**
+
 Education
 ======
 * Ph.D in Information and Communication Engineering, The University of Tokyo, 2024 (expected)
