@@ -11,7 +11,7 @@ I am currently a Ph.D. candidate at the Department of Information & Communicatio
 My research interests lie at the intersection of deep learning and computer vision, especially solving vision problems with self-supervised representation learning and deep neural networks, e.g., Vision Transformers.
 
 ## News
-- **I am actively looking for an research internship. Feel free to shoot me an [email](mailto:laynehuang[at]outlook[dot]com).**
+- **I am actively looking for an research internship. Please feel free to shoot an [email](mailto:laynehuang[at]outlook[dot]com).**
 - 2022/10: One paper ([SAT](../_publications/2021-01-SAT.md)) was accepted at T-PAMI.
 - 2022/09: One paper ([GreenMIM](../_publications/2022-05-GreenMIM.md)) was accepted at NeurIPS 2022.
 - 2022/03: Two papers ([LEWEL](../_publications/2022-03-LEWEL.md) and [SimMatch](../_publications/2022-03-SimMatch.md)) were accepted at CVPR 2022.

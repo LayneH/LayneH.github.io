@@ -1,5 +1,5 @@
 ---
-title: 'The underrated Interlaced Sparse Self-Attention in Vision Transformers'
+title: 'The Underrated Interlaced Sparse Self-Attention in Vision Transformers'
 date: 2022-08-25
 permalink: /posts/2022/08/blog-post-ISA/
 tags:
