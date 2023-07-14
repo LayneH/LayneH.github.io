@@ -11,7 +11,9 @@ I am currently a MEXT-funded Ph.D. candidate at The University of Tokyo, working
 My research interests lie at the intersection of deep learning and computer vision, especially solving vision problems with self-supervised representation learning and deep neural networks, e.g., Vision Transformers.
 
 ## News
-- I will be interning at Adobe this summer.
+- 2023/07: One paper was accepted by ICCV 2023.
+- 2023/05: I started an internship at Adobe, San Jose.
+- 2023/03: Gave a talk on SAT ([slides](https://1drv.ms/b/s!Aqnb8CZbnmQ5s3GLhODUfQcnbkxU?e=pKKhhm)) at [Waves in AI](https://events.li-lab.me/) seminar.
 - 2022/10: One paper ([SAT](../_publications/2021-01-SAT.md)) was accepted at T-PAMI.
 - 2022/09: One paper ([GreenMIM](../_publications/2022-05-GreenMIM.md)) was accepted at NeurIPS 2022.
 - 2022/03: Two papers ([LEWEL](../_publications/2022-03-LEWEL.md) and [SimMatch](../_publications/2022-03-SimMatch.md)) were accepted at CVPR 2022.

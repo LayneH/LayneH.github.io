@@ -19,6 +19,10 @@ Education
 
 Industry experience
 ======
+* May 2021 - Auguest 2023: Research Intern
+  * Adobe
+  * Research topic: Multi-modal representation learning
+
 * Auguest 2021 - October 2022: Research Intern
   * SenseTime Research
   * Research topic: Self-supervised representation learning
@@ -31,4 +35,4 @@ Publications
   
 Service
 ======
-* Reviewer for AAAI2022-2023, CVPR2022-2023, ECCV2022.
+* Reviewer for AAAI2022-2024, CVPR2022-2023, NeurIPS2023,ICCV2023,ECCV2022.
