@@ -19,12 +19,12 @@ Education
 
 Industry experience
 ======
-* May 2021 - Auguest 2023: Research Intern
-  * Adobe
+* May 2023 - Auguest 2023: Research Intern
+  * Adobe, San Jose
   * Research topic: Multi-modal representation learning
 
 * Auguest 2021 - October 2022: Research Intern
-  * SenseTime Research
+  * SenseTime Research, Beijing
   * Research topic: Self-supervised representation learning
 
 Publications
