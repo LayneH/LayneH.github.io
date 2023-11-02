@@ -11,7 +11,7 @@ I am currently a MEXT-funded Ph.D. candidate at The University of Tokyo, working
 My research interests lie at the intersection of deep learning and computer vision, especially solving vision problems with self-supervised representation learning and deep neural networks, e.g., Vision Transformers.
 
 ## News
-- 2023/07: One paper was accepted by ICCV 2023.
+- 2023/07: One paper [SimMatchv2](http://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.pdf) was accepted by ICCV 2023.
 - 2023/05: I started an internship at Adobe, San Jose.
 - 2023/03: Gave a talk on SAT ([slides](https://1drv.ms/b/s!Aqnb8CZbnmQ5s3GLhODUfQcnbkxU?e=pKKhhm)) at [Waves in AI](https://events.li-lab.me/) seminar.
 - 2022/10: One paper ([SAT](../_publications/2021-01-SAT.md)) was accepted at T-PAMI.
