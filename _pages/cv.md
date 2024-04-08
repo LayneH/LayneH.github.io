@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**You can find my CV [here](https://drive.google.com/file/d/143ScEtccaxzCh3MWnpkkmQxBdphqa7ty/view?usp=share_link).**
+**You can find my CV [here](https://drive.google.com/file/d/1dxgrTmgW-CO3ziuVexgPfztasVsKLN6V/view?usp=sharing).**
 
 Education
 ======
