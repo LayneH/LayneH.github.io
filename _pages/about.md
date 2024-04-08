@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a MEXT-funded Ph.D. candidate at The University of Tokyo, working with [Prof. Toshihiko Yamasaki](https://scholar.google.com/citations?user=rE9iY5MAAAAJ&hl=en). Prior to that, I received a Master's degree from Peking University in 2021, advised by [Prof. Chao Zhang](https://scholar.google.com/citations?user=NeCCx-kAAAAJ&hl=en).
-My research interests lie at the intersection of deep learning and computer vision, especially solving vision problems with self-supervised representation learning and deep neural networks, e.g., Vision Transformers.
+I am currently a MEXT-funded Ph.D. candidate at The University of Tokyo, working with Prof. [Toshihiko Yamasaki](https://scholar.google.com/citations?user=rE9iY5MAAAAJ&hl=en). Prior to that, I received a Master's degree from Peking University in 2021, advised by Prof. [Chao Zhang](https://scholar.google.com/citations?user=NeCCx-kAAAAJ&hl=en). My research primarily focuses on on efficient representation learning for vision-language and pure vision foundation models. This involves two key aspects: 1) *designing compute-efficient foundation models*, e.g., efficient Transformers; and 2) *devising label-efficient learning algorithms* that leverage self-supervision. Throughout my academic journey, I have been fortunate to have the opportunity to collaborate with esteemed researchers including Prof. [Hongyang Zhang](https://hongyanz.github.io/), Dr. [Yuhui Yuan](https://www.microsoft.com/en-us/research/people/yuyua/), Dr. [Shan You](https://shanyou92.github.io/), and Dr. [Zichuan Liu](https://scholar.google.com/citations?user=-H18WY8AAAAJ&hl=en).
+
+***I am actively seeking a fulltime research scientist position. Please feel free to reach out if there's a good fit.***
 
 ## News
 - 2023/07: One paper [SimMatchv2](http://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.pdf) was accepted by ICCV 2023.
