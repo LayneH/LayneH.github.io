@@ -14,8 +14,9 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : Roboto, "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; //".SFNSText-Regular",
+// $sans-serif                 : Roboto, "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; //".SFNSText-Regular",
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : $monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
