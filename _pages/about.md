@@ -9,9 +9,14 @@ redirect_from:
 
 I am currently a MEXT-funded Ph.D. candidate at The University of Tokyo, working with Prof. [Toshihiko Yamasaki](https://scholar.google.com/citations?user=rE9iY5MAAAAJ&hl=en). Prior to that, I received a Master's degree from Peking University in 2021, advised by Prof. [Chao Zhang](https://scholar.google.com/citations?user=NeCCx-kAAAAJ&hl=en). Throughout my academic journey, I have had two wonderful internships at Adobe and SenseTime, and have been fortunate to have the opportunity to collaborate with [Yuhui Yuan](https://www.microsoft.com/en-us/research/people/yuyua/), [Hongyang Zhang](https://hongyanz.github.io/), [Shan You](https://shanyou92.github.io/), and [Zichuan Liu](https://scholar.google.com/citations?user=-H18WY8AAAAJ&hl=en).
 
-My research primarily focuses on *efficient representation learning for both vision and language*. This involves two key aspects: 1) designing *compute-efficient foundation models* to encode the data in a structured format, e.g., efficient Transformers; and 2) devising *label-efficient learning algorithms* that leverage self-supervision to learn the deep learning models.
+My research primarily focuses on *self-improving machine learning* methods. I approach this challenge through two key aspects: *learning algorithms* and *model design*. 
+- On the algorithmic front, I develop methods to uncover and leverage the hidden self-supervision inherent within data, *e.g.*, [SAT](../_publications/2021-01-SAT.md), [LEWEL](../_publications/2022-03-LEWEL.md), and [SimMatch](../_publications/2022-03-SimMatch.md).
+- On the model front, I design `fast learners', foundational models that operate efficiently concerning both human- and self-supervisions, *e.g.*, [ISA](../_publications/2019-07-ISA.md), [OCNet](../_publications/2018-09-OCNet.md), and [GreenMIM](../_publications/2022-05-GreenMIM.md).
+
+---
 
 ***I am actively seeking a fulltime research scientist position. Please find my CV [here](https://drive.google.com/file/d/1Mxf-KHpp4WBkhsfTW2vwzx3mh-ib4iAn/view?usp=sharing) and do not hesitate to contact me if there's a good fit.***
+---
 
 ## News
 - 2024/07: I will give an invited talk at MIRU 2024.
