@@ -13,6 +13,7 @@ My research focuses on **self-improving machine learning**, primarily for vision
 - **On the algorithmic front**, I develop methods to uncover and leverage the hidden self-supervision inherent within data, *e.g.*, [SAT](../_publications/2021-01-SAT.md), [LEWEL](../_publications/2022-03-LEWEL.md), and [SimMatch](../_publications/2022-03-SimMatch.md).
 - **On the model front**, I design 'fast learners', foundational models that operate efficiently concerning both human- and self-supervisions, *e.g.*, [ISA](../_publications/2019-07-ISA.md), [OCNet](../_publications/2018-09-OCNet.md), and [GreenMIM](../_publications/2022-05-GreenMIM.md).
 
+**I am open to collaboration at any level on relevant topics. Feel free to shoot me an email.**
 
 ## News
 - 2024/07: I gave an invited talk at [MIRU 2024](https://miru-committee.github.io/miru2024/en/).
