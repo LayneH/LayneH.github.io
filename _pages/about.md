@@ -16,7 +16,7 @@ My research focuses on **self-improving machine learning**, primarily for vision
 **I am open to collaboration at any level on relevant topics. Feel free to shoot me an email.**
 
 ## News
-- 2024/07: I gave an invited talk at [MIRU 2024](https://miru-committee.github.io/miru2024/en/).
+- 2024/08: I gave an invited talk at [MIRU 2024](https://miru-committee.github.io/miru2024/en/).
 - 2024/07: One paper was accpted by ECCV 2024.
 - 2023/07: One paper [SimMatchv2](http://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.pdf) was accepted by ICCV 2023.
 - 2023/05: I started an internship at Adobe, San Jose.
