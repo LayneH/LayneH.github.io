@@ -19,7 +19,7 @@ Employment
 
 Education
 ======
-* Ph.D in Information and Communication Engineering, The University of Tokyo, 2025
+* Ph.D. in Information and Communication Engineering, The University of Tokyo, 2025
 * M.S. in Intelligence Science, Peking University, 2021
 * B.S. in Computer Science, Beijing University of Posts and Telecommunications, 2018
 
