@@ -16,8 +16,7 @@ My research focuses on **self-improving machine learning**, primarily for vision
 - **On the model front**, I design 'fast learners', foundational models that operate efficiently concerning both human- and self-supervisions, *e.g.*, [ISA](../_publications/2019-07-ISA.md), [OCNet](../_publications/2018-09-OCNet.md), and [GreenMIM](../_publications/2022-05-GreenMIM.md).
 
 ### Opportunity
-I will be hosting 1) *funded* oversea students through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/).
-  and Research Assiatnts at NII; and 2) Ph.D. students through the [Informatics Program at SOKENDAI/NII](https://www.nii.ac.jp/graduate/en/). Please send me an email with your CV and a few sentences decribing your research interests.
+I will be hosting 1) *funded* oversea students through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/) and Research Assiatnts from domestic universities at NII; and 2) Ph.D. students through the [Informatics Program at SOKENDAI/NII](https://www.nii.ac.jp/graduate/en/). Please send me an email with your CV and a few sentences decribing your research interests.
 
 
 ## News
