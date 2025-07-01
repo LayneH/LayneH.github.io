@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor and Principal Investigator at the [National Intitute of Informatics](https://www.nii.ac.jp/), jointly affiliated with [The Graduate University for Advanced Studies, SOKENDAI](https://www.soken.ac.jp/en/).
+I am an Assistant Professor and Principal Investigator at the [National Institute of Informatics](https://www.nii.ac.jp/), jointly affiliated with [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
 I obtained my Ph.D. from The University of Tokyo in 2025 from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html) of [AYYM Lab](https://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml), and my Master's degree from Peking University in 2021. Throughout my academic journey, I was fortunate to have several wonderful internships at Sakana AI, Adobe and SenseTime.
 
 My research focuses on **self-improving machine learning**, primarily for vision data. I approach this challenge through two key aspects: *learning algorithms* and *model design*. 
