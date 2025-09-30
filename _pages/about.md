@@ -8,14 +8,18 @@ redirect_from:
 ---
 
 I am an Assistant Professor and Principal Investigator at the [National Institute of Informatics](https://www.nii.ac.jp/), jointly affiliated with [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
-I obtained my Ph.D. from The University of Tokyo in 2025 from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html) of [AYYM Lab](https://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml), and my Master's degree from Peking University in 2021. Throughout my academic journey, I was fortunate to have several wonderful internships at Sakana AI, Adobe and SenseTime.
+I obtained my Ph.D. from The University of Tokyo in 2025 from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html), and my Master's degree from Peking University in 2021. Throughout my academic journey, I was fortunate to have several wonderful internships at Sakana AI, Adobe and SenseTime.
 
 My research focuses on **self-improving machine learning**, primarily for vision data. I approach this challenge through two key aspects: *learning algorithms* and *model design*. 
 - **On the algorithmic front**, I develop methods to uncover and leverage the hidden self-supervision inherent within data, *e.g.*, [SAT](../_publications/2021-01-SAT.md), [LEWEL](../_publications/2022-03-LEWEL.md), and [SimMatch](../_publications/2022-03-SimMatch.md).
 - **On the model front**, I design 'fast learners', foundational models that operate efficiently concerning both human- and self-supervisions, *e.g.*, [ISA](../_publications/2019-07-ISA.md), [OCNet](../_publications/2018-09-OCNet.md), and [GreenMIM](../_publications/2022-05-GreenMIM.md).
 
 ### Opportunity
-I will be hosting *funded* 1) intern students through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/); 2) Research Assistants from domestic universities at NII; and 3) Ph.D. students through the [Informatics Program at SOKENDAI/NII](https://www.nii.ac.jp/graduate/en/). Please send me an email with your CV and a few sentences decribing your research interests.
+I will be hosting *funded* 
+1) Intern students through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html); 
+2) Ph.D. students through the [Informatics Program at SOKENDAI/NII](https://www.nii.ac.jp/graduate/en/).
+3) Research Assistants from domestic universities at NII; 
+Please send me an email with your CV and a brief decribtion of your research background and interests.
 
 
 ## News
