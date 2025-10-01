@@ -16,9 +16,13 @@ My research focuses on **self-improving machine learning**, primarily for vision
 
 ### Opportunity
 I will be hosting *funded* 
+
 1) Intern students through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html); 
-2) Ph.D. students through the [Informatics Program at SOKENDAI/NII](https://www.nii.ac.jp/graduate/en/).
-3) Research Assistants from domestic universities at NII; 
+
+2) Ph.D. students through the [Informatics Program at SOKENDAI/NII](https://www.nii.ac.jp/graduate/en/);
+
+3) Research Assistants from domestic universities at NII.
+
 Please send me an email with your CV and a brief decribtion of your research background and interests.
 
 
