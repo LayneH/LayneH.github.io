@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor and Principal Investigator at the [National Institute of Informatics](https://www.nii.ac.jp/), jointly affiliated with [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/).
-I obtained my Ph.D. from The University of Tokyo in 2025 from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html), and my Master's degree from Peking University in 2021. Throughout my academic journey, I was fortunate to have several wonderful internships at Sakana AI, Adobe and SenseTime.
+I am an Assistant Professor and Principal Investigator at the [National Institute of Informatics](https://www.nii.ac.jp/), jointly affiliated with [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/). I also work part-time as a Research Scientist at Sakana AI.
+Prior to my career, I obtained my Ph.D. from The University of Tokyo in 2025 from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html), and my Master's degree from Peking University in 2021. Throughout my academic journey, I was fortunate to have several wonderful internships at Sakana AI, Adobe and SenseTime.
 
 My research focuses on **self-improving machine learning**, primarily for vision data. I approach this challenge through two key aspects: *learning algorithms* and *model design*. 
 - **On the algorithmic front**, I develop methods to uncover and leverage the hidden self-supervision inherent within data, *e.g.*, [SAT](../_publications/2021-01-SAT.md), [LEWEL](../_publications/2022-03-LEWEL.md), and [SimMatch](../_publications/2022-03-SimMatch.md).
@@ -20,10 +20,11 @@ I will be hosting *funded*
 2. Ph.D. students through the [Informatics Program at SOKENDAI/NII](https://www.nii.ac.jp/graduate/en/);
 3. Research Assistants from domestic universities at NII.
 
-Please send me an email with your CV, a brief description of your research background, and the potential .
+Please send me an email with your CV, a brief description of your research background, and the potential research topics you want to explore in my group.
 
 
 ## News
+- 2025/11: I will be serving as an Area Chair at ICML 2026.
 - 2025/04: I've joined [NII](https://www.nii.ac.jp/) and [SOKENDAI](https://www.soken.ac.jp/en/) as an Assistant Professor & Principal Investigator.
 - 2025/03: Graduated from The University of Tokyo.
 - 2025/01: I started an internship at [Sakana AI](https://sakana.ai) as a Research Scientist, Tokyo.
