@@ -33,3 +33,17 @@ I host *funded* positions for:
 All Ph.D. students enrolled at SOKENDAI will be supported by **either a scholarship or a research assistantship (RA)**.
 
 If you are interested, please send me an email with your **CV**, a brief description of your **research background**, and the **potential research topics** you would like to explore in my group.
+
+### News
+- 2025/11: I will be serving as an Area Chair at ICML 2026.
+- 2025/04: I've joined [NII](https://www.nii.ac.jp/) and [SOKENDAI](https://www.soken.ac.jp/en/) as an Assistant Professor & Principal Investigator.
+- 2025/03: Graduated from The University of Tokyo.
+- 2025/01: I started an internship at [Sakana AI](https://sakana.ai) as a Research Scientist, Tokyo.
+- 2024/08: I gave an invited talk at [MIRU 2024](https://miru-committee.github.io/miru2024/en/).
+- 2024/07: One paper ([SCOMatch](https://arxiv.org/abs/2409.17512?)) was accpted by ECCV 2024.
+- 2023/07: One paper [SimMatchv2](http://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.pdf) was accepted by ICCV 2023.
+- 2023/05: I started an internship at Adobe as a Research Scientist, San Jose.
+- 2023/03: Gave a talk on SAT ([slides](https://1drv.ms/b/s!Aqnb8CZbnmQ5s3GLhODUfQcnbkxU?e=pKKhhm)) at [Waves in AI](https://events.li-lab.me/) seminar.
+- 2022/10: One paper ([SAT](../_publications/2021-01-SAT.md)) was accepted at T-PAMI.
+- 2022/09: One paper ([GreenMIM](../_publications/2022-05-GreenMIM.md)) was accepted at NeurIPS 2022.
+- 2022/03: Two papers ([LEWEL](../_publications/2022-03-LEWEL.md) and [SimMatch](../_publications/2022-03-SimMatch.md)) were accepted at CVPR 2022.
