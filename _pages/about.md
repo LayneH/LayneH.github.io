@@ -10,9 +10,9 @@ redirect_from:
 I am an Assistant Professor and Principal Investigator at the [National Institute of Informatics](https://www.nii.ac.jp/en/), jointly affiliated with [SOKENDAI](https://www.soken.ac.jp/en/). I also work part-time as a Research Scientist at Sakana AI. I received my Ph.D. from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html) at The University of Tokyo in 2025 and my M.S. from Peking University, and I have interned at Sakana AI, Adobe, and SenseTime.
 
 My research targets **self-improving machine learning**, with a focus on **generative models for vision and language**. I currently approach this through three complementary fronts:
-- **Model / Architecture front**: I design **efficient foundation model architectures** for vision and language tasks, including generative autoregressive and diffusion transformers. This includes work on compact and scalable architectures such as [ISA](../_publications/2019-07-ISA.md), [OCNet](../_publications/2018-09-OCNet.md), and [GreenMIM](../_publications/2022-05-GreenMIM.md), and will extend to **novel architectures** that better exploit structure in data and computation.
+- **Model / Architecture front**: I design **efficient foundation model** for vision and language tasks, including generative autoregressive and diffusion transformers, and **novel architectures** that better exploit structure in data and computation.
 
-- **Algorithm / Data-efficiency front**: I develop **data-efficient learning algorithms** that uncover and leverage hidden self-supervision in visual and multi-modal data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels. Examples include [SAT](../_publications/2021-01-SAT.md), [LEWEL](../_publications/2022-03-LEWEL.md), and [SimMatch](../_publications/2022-03-SimMatch.md).
+- **Algorithm / Data-efficiency front**: I develop **data-efficient learning algorithms** that uncover and leverage hidden self-supervision in visual and multi-modal data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels.
 
 - **Weight Space Learning front**: I study **neural networks in weight space**, including model merging, composition, and generation. The goal is to understand and exploit the structure and knowledge of model weights for instant adaptations and model recycle.
 
