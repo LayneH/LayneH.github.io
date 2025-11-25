@@ -23,7 +23,7 @@ I host *funded* positions for:
 3. **DAAD Ph.D./Post Doc**: through the [DAAD IFI-program](https://www.nii.ac.jp/en/glo-daad/) for German students or students studying at German universities.
 4. **Research Assistants** from domestic universities at NII.
 
-If you are interested, please send me an email with your **CV**, a brief description of your **research background**, and the **potential research topics** you would like to explore in my group.
+If you are interested, please send me an email with your **CV**, a brief description of your **research background**, and the **potential topics** you intend to explore in my group.
 
 ### News
 - 2025/11: I will be serving as an Area Chair at ICML 2026.
