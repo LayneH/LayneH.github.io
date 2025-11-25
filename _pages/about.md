@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 I am an Assistant Professor and Principal Investigator at the [National Institute of Informatics](https://www.nii.ac.jp/en/), jointly affiliated with [SOKENDAI](https://www.soken.ac.jp/en/). I also work part-time as a Research Scientist at Sakana AI. I received my Ph.D. from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html) at The University of Tokyo in 2025 and my M.S. from Peking University, and I have interned at Sakana AI, Adobe, and SenseTime.
-
 My research targets **self-improving machine learning**, with a focus on **generative models for vision and language**. I currently approach this through three complementary fronts:
 - **Model / Architecture front**: I design **efficient foundation model** for vision and language tasks, including generative autoregressive and diffusion transformers, and **novel architectures** that better exploit structure in data and computation.
 - **Algorithm / Data-efficiency front**: I develop **data-efficient learning algorithms** that uncover and leverage hidden self-supervision in visual and multi-modal data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels.
