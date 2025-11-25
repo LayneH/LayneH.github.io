@@ -11,14 +11,12 @@ I am an Assistant Professor and Principal Investigator at the [National Institut
 
 My research targets **self-improving machine learning**, with a focus on **generative models for vision and language**. I currently approach this through three complementary fronts:
 - **Model / Architecture front**: I design **efficient foundation model** for vision and language tasks, including generative autoregressive and diffusion transformers, and **novel architectures** that better exploit structure in data and computation.
-
 - **Algorithm / Data-efficiency front**: I develop **data-efficient learning algorithms** that uncover and leverage hidden self-supervision in visual and multi-modal data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels.
-
 - **Weight Space Learning front**: I study **neural networks in weight space**, including model merging, composition, and generation. The goal is to understand and exploit the structure and knowledge of model weights for instant adaptations and model recycle.
 
 ### Opportunity
 I host *funded* positions for:
-1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html);
+1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 universities;
 2. **Ph.D. students** through the [Informatics Program at SOKENDAI / NII](https://www.nii.ac.jp/graduate/en/). All Ph.D. students enrolled at SOKENDAI will be supported by **either a scholarship or an RA**;
 3. **DAAD Ph.D./Post Doc**: through the [DAAD IFI-program](https://www.nii.ac.jp/en/glo-daad/) for German students or students studying at German universities.
 4. **Research Assistants** from domestic universities at NII.
