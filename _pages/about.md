@@ -17,8 +17,8 @@ My research targets **self-improving machine learning**, with a focus on **gener
 I host *funded* positions for Interns, Ph.D. students and Postdocs. If you are interested, please send me an email with your **CV**, a brief description of your **research background**, and the **potential topics** you intend to explore in my group.
 1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 universities;
 2. **Ph.D. students** through the [Informatics Program at SOKENDAI / NII](https://www.nii.ac.jp/graduate/en/). All Ph.D. students enrolled at SOKENDAI will be supported by **either a scholarship or an RA**;
-3. **DAAD Ph.D./Postdoc**: through the [DAAD IFI-program](https://www.nii.ac.jp/en/glo-daad/) for German students or students studying at German universities.
-4. **Research Assistants** from domestic universities at NII.
+3. **Ph.D./Postdoc** via [DAAD IFI](https://www.nii.ac.jp/en/glo-daad/) for students at German universities and German nationals.
+4. **Research Assistants** from universities in Japan at NII.
 
 ### News
 - 2025/11: I will be serving as an Area Chair at ICML 2026.
