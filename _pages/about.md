@@ -14,7 +14,7 @@ My research targets **self-improving machine learning**, with a focus on **gener
 - **Weight Space Learning front**: I study **neural networks in weight space**, including model merging, composition, and generation. The goal is to understand and exploit the structure and knowledge of model weights for instant adaptations and model recycle.
 
 ### Opportunity
-I host **funded** positions for Interns, Ph.D. students and Postdocs. If you are interested, please send me an email with your CV, a brief description of your research background, and the potential topics you intend to explore in my group.
+I offer **funded** positions for interns, PhD students, and postdocs; if interested, email your CV, a brief research background, and the topics you would like to pursue in my group to me.
 1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 universities;
 2. **Ph.D. students** through the [Informatics Program at SOKENDAI / NII](https://www.nii.ac.jp/graduate/en/);
 3. **Ph.D./Postdoc** via [DAAD IFI](https://www.nii.ac.jp/en/glo-daad/) for students at German universities and German nationals.
