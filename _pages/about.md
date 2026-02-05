@@ -7,16 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor and Principal Investigator at the [National Institute of Informatics](https://www.nii.ac.jp/en/), jointly affiliated with [SOKENDAI](https://www.soken.ac.jp/en/). I also work part-time as a Research Scientist at Sakana AI. I received my Ph.D. from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html) at The University of Tokyo in 2025 and my M.S. from Peking University, and I have interned at Sakana AI, Adobe, and SenseTime.
-My research targets **self-improving machine learning**, with a focus on **generative models for vision and language**. I currently approach this through three complementary fronts:
-- **Model / Architecture front**: I design **efficient foundation model** for vision and language tasks, including generative autoregressive and diffusion transformers, and **novel architectures** that better exploit structure in data and computation.
-- **Algorithm / Data-efficiency front**: I develop **data-efficient learning algorithms** that uncover and leverage hidden self-supervision in visual and multi-modal data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels.
-- **Weight Space Learning front**: I study **neural networks in weight space**, including model merging, composition, and generation. The goal is to understand and exploit the structure and knowledge of model weights for instant adaptations and model recycle.
+<p class="page__lead">I am an Assistant Professor & PI at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics</a> and <a href="https://www.soken.ac.jp/en/">SOKENDAI</a>, and a Research Scientist at <a href="https://sakana.ai/">Sakana AI</a>.</p>
+
+I received my Ph.D. from The University of Tokyo in 2025 and my M.S. from Peking University. Previously, I interned at Sakana AI, Adobe, and SenseTime.
+
+### Research Focus
+
+My research centers on self-improving machine learning, with particular emphasis on generative models for vision and language. I pursue this through three directions:
+**Modeling**: I design efficient foundation models for vision and language tasks, including generative autoregressive and diffusion transformers, and novel architectures that better exploit structure in data and computation.
+**Learning**: I develop data-efficient learning algorithms that uncover and leverage hidden self-supervision in data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels.
+**Adapting**: I study neural networks in weight space, including model merging, composition, and generation. The goal is to understand and exploit the structure and knowledge encoded in model weights for instant adaptations.
 
 ### Opportunity
-I offer **funded** positions for interns, PhD students, and postdocs; if interested, email your CV, a brief research background, and the topics you would like to pursue in my group to me.
-1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 universities;
-2. **Ph.D. students** through the [Informatics Program at SOKENDAI / NII](https://www.nii.ac.jp/graduate/en/);
+I offer **funded** positions for interns, PhD students, and postdocs. If interested, email your CV, a brief research background, and the topics you would like to pursue in my group.
+{: .notice--info}
+
+1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 universities.
+2. **Ph.D. students** through the [Informatics Program at SOKENDAI / NII](https://www.nii.ac.jp/graduate/en/).
 3. **Ph.D./Postdoc** via [DAAD IFI](https://www.nii.ac.jp/en/glo-daad/) for students at German universities and German nationals.
 4. **Research Assistants** from universities in Japan at NII.
 
@@ -26,10 +33,3 @@ I offer **funded** positions for interns, PhD students, and postdocs; if interes
 - 2025/03: Graduated from The University of Tokyo.
 - 2025/01: I started an internship at [Sakana AI](https://sakana.ai) as a Research Scientist, Tokyo.
 - 2024/08: I gave an invited talk at [MIRU 2024](https://miru-committee.github.io/miru2024/en/).
-- 2024/07: One paper ([SCOMatch](https://arxiv.org/abs/2409.17512?)) was accpted by ECCV 2024.
-- 2023/07: One paper [SimMatchv2](http://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.pdf) was accepted by ICCV 2023.
-- 2023/05: I started an internship at Adobe as a Research Scientist, San Jose.
-- 2023/03: Gave a talk on SAT ([slides](https://1drv.ms/b/s!Aqnb8CZbnmQ5s3GLhODUfQcnbkxU?e=pKKhhm)) at [Waves in AI](https://events.li-lab.me/) seminar.
-- 2022/10: One paper ([SAT](../_publications/2021-01-SAT.md)) was accepted at T-PAMI.
-- 2022/09: One paper ([GreenMIM](../_publications/2022-05-GreenMIM.md)) was accepted at NeurIPS 2022.
-- 2022/03: Two papers ([LEWEL](../_publications/2022-03-LEWEL.md) and [SimMatch](../_publications/2022-03-SimMatch.md)) were accepted at CVPR 2022.
