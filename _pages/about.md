@@ -7,19 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<p class="page__lead">I am an Assistant Professor and Principal Investigator at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics</a>, jointly affiliated with <a href="https://www.soken.ac.jp/en/">SOKENDAI</a>, and a Research Scientist at Sakana AI. My research focuses on self-improving machine learning for vision and language.</p>
+<p class="page__lead">I am an Assistant Professor & PI at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics</a> and <a href="https://www.soken.ac.jp/en/">SOKENDAI</a>, and a Research Scientist at <a href="https://sakana.ai/">Sakana AI</a>.</p>
 
-I received my Ph.D. from [Yamasaki Lab](https://www.cvm.t.u-tokyo.ac.jp/en/index.html) at The University of Tokyo in 2025 and my M.S. from Peking University, and I have interned at Sakana AI, Adobe, and SenseTime.
+I received my Ph.D. from The University of Tokyo in 2025 and my M.S. from Peking University. Previously, I interned at Sakana AI, Adobe, and SenseTime.
 
 ### Research Focus
-- **Model / Architecture**: efficient foundation models for vision and language, including autoregressive and diffusion transformers.
-- **Algorithm / Data-efficiency**: semi-/self-/weakly supervised learning and robust training under limited or noisy labels.
-- **Weight Space Learning**: model merging, composition, and generation for rapid adaptation.
 
-### Selected Publications
-- **GreenMIM** (NeurIPS 2022) — [paper](/publications/2022-05-GreenMIM/)
-- **LEWEL** (CVPR 2022) — [paper](/publications/2022-03-LEWEL/)
-- **SAT** (T-PAMI 2022) — [paper](/publications/2021-01-SAT/)
+My research centers on self-improving machine learning, with particular emphasis on generative models for vision and language. I pursue this through three directions:
+**Modeling**: I design efficient foundation models for vision and language tasks, including generative autoregressive and diffusion transformers, and novel architectures that better exploit structure in data and computation.
+**Learning**: I develop data-efficient learning algorithms that uncover and leverage hidden self-supervision in data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels.
+**Adapting**: I study neural networks in weight space, including model merging, composition, and generation. The goal is to understand and exploit the structure and knowledge encoded in model weights for instant adaptations.
 
 ### Opportunity
 I offer **funded** positions for interns, PhD students, and postdocs. If interested, email your CV, a brief research background, and the topics you would like to pursue in my group.
