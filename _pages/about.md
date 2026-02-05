@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p class="page__lead">I am an Assistant Professor & PI at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics</a> and <a href="https://www.soken.ac.jp/en/">SOKENDAI</a>, and a Research Scientist at <a href="https://sakana.ai/">Sakana AI</a>. I received my Ph.D. from The University of Tokyo in 2025 and my M.S. from Peking University. Previously, I interned at Sakana AI, Adobe, and SenseTime.</p>
+<p class="page__lead">I am an Assistant Professor & PI at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics</a> and <a href="https://www.soken.ac.jp/en/">SOKENDAI</a>, and a Research Scientist at <a href="https://sakana.ai/">Sakana AI</a>. I received my Ph.D. from UTokyo in 2025 and M.S. from PKU. Previously, I interned at Sakana AI, Adobe, and SenseTime.</p>
 
 My research centers on self-improving machine learning, with particular emphasis on generative models for vision and language. I pursue this through three directions:
 - **Modeling**: I design efficient foundation models for vision and language tasks, including generative autoregressive and diffusion transformers, and novel architectures that better exploit structure in data and computation.
@@ -17,9 +17,9 @@ My research centers on self-improving machine learning, with particular emphasis
 ### Opportunity
 I offer **funded** positions for interns, PhD students, and postdocs. If interested, email your CV, a brief research background, and the topics you would like to pursue in my group.
 
-1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 universities.
+1. **Interns** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 univs.
 2. **Ph.D. students** through the [Informatics Program at SOKENDAI / NII](https://www.nii.ac.jp/graduate/en/).
-3. **Ph.D./Postdoc** via [DAAD IFI](https://www.nii.ac.jp/en/glo-daad/) for students at German universities and German nationals.
+3. **Ph.D./Postdoc** via [DAAD IFI](https://www.nii.ac.jp/en/glo-daad/) for students at German univs. and German nationals.
 4. **Research Assistants** from universities in Japan at NII.
 
 ### News
