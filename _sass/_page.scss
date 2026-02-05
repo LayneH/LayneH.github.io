@@ -45,8 +45,8 @@
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-4;
-  line-height: 1.6;
+  font-size: $type-size-5;
+  line-height: 1.55;
 }
 
 .page__content {
@@ -58,7 +58,7 @@
 
   p, li, dl {
     font-size: 1em;
-    line-height: 1.7;
+    line-height: 1.6;
   }
 
   /* paragraph indents */

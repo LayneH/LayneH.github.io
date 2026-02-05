@@ -16,7 +16,6 @@ My research centers on self-improving machine learning, with particular emphasis
 
 ### Opportunity
 I offer **funded** positions for interns, PhD students, and postdocs. If interested, email your CV, a brief research background, and the topics you would like to pursue in my group.
-{: .notice--info}
 
 1. **Intern students** through the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/index.html) with >100 universities.
 2. **Ph.D. students** through the [Informatics Program at SOKENDAI / NII](https://www.nii.ac.jp/graduate/en/).
