@@ -23,6 +23,7 @@ I offer **funded** positions for interns, PhD students, and postdocs. If interes
 4. **Research Assistants** from universities in Japan at NII.
 
 ### News
+- 2025/02: Our paper on autoregressive image generation ([Mirai](https://y0uroy.github.io/Mirai/)) is accpeted at CVPR 2026.
 - 2025/11: I will be serving as an Area Chair at ICML 2026.
 - 2025/04: I've joined [NII](https://www.nii.ac.jp/) and [SOKENDAI](https://www.soken.ac.jp/en/) as an Assistant Professor & Principal Investigator.
 - 2025/03: Graduated from The University of Tokyo.
