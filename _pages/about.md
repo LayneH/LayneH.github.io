@@ -9,7 +9,7 @@ redirect_from:
 
 <p class="page__lead">I am an Assistant Professor & PI at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics</a> and <a href="https://www.soken.ac.jp/en/">SOKENDAI</a>, and a Research Scientist at <a href="https://sakana.ai/">Sakana AI</a>. I received my Ph.D. from UTokyo in 2025 and M.S. from PKU. Previously, I interned at Sakana AI, Adobe, and SenseTime.</p>
 
-My research centers on self-improving machine learning, with particular emphasis on generative models for vision and language. I pursue this through three directions:
+My research is broadly motivated by self-improving models. I currently pursue this through three related directions, each targeting a complementary bottleneck in how intelligent systems are **built**, **trained**, and **updated**.
 - **Modeling**: I design efficient foundation models for vision and language tasks, including generative autoregressive and diffusion transformers, and novel architectures that better exploit structure in data and computation.
 - **Learning**: I develop data-efficient learning algorithms that uncover and leverage hidden self-supervision in data, including semi-/self-/weakly supervised methods and robust training under limited or noisy labels.
 - **Adapting**: I study neural networks in weight space, including model merging, composition, and generation. The goal is to understand and exploit the structure and knowledge encoded in model weights for instant adaptations.
