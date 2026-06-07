@@ -23,7 +23,7 @@ I offer **funded** positions for postdocs, PhD students, and interns. If interes
 4. **Research Assistants** from universities in Japan at NII.
 
 ### News
-- 2026/06: We release [Video-Mirai](https://y0uroy.github.io/Video-Mirai/), a real-time video generation models with foresight.
+- 2026/06: We've released [Video-Mirai](https://y0uroy.github.io/Video-Mirai/), a real-time video generation models with foresight.
 - 2026/04: I will be serving as an Area Chair at NeurIPS 2026.
 - 2026/02: Our paper on autoregressive image generation ([Mirai](https://y0uroy.github.io/Mirai/)) is accpeted at CVPR 2026.
 - 2025/11: I will be serving as an Area Chair at ICML 2026.
